@@ -1,0 +1,1 @@
+add_lunch_combo aosp_fx3-userdebug
